@@ -1,5 +1,6 @@
 ---
 marp: true
+paginate: true
 ---
 
 # Amazon Bedrockとは
@@ -63,11 +64,11 @@ https://docs.aws.amazon.com/bedrock/latest/userguide/data-protection.html
 
 ---
 
-# プレイグラウンド
+## プレイグラウンド
 
 AWS Management Console上でモデルを用いたコンテンツ試すことができる環境があります。
 
-<div style="text-align: center"><img src="images/amazon-bedrock-playground.png" width="65%"></div>
+![bg contain right:60%](images/amazon-bedrock-playground.png)
 
 ---
 
