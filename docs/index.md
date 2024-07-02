@@ -100,3 +100,9 @@ PDF, MD, TXT, DOC, DOCX, HTML, CSV, XLS, XLSX
 ![bg contain right:50%](images/amazon-bedrock-chat-with-doc.png)
 
 ---
+# 社内情報検索
+こんな感じのものをサクッと作れたら便利かも？
+
+![](images/internal-search-with-knowledge-base.drawio.png)
+
+参考: https://qiita.com/minorun365/items/24dfb0ea3afde6ed0a56
