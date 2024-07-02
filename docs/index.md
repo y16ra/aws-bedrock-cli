@@ -88,11 +88,15 @@ Knowledge Bases for Amazon Bedrock を使用することで、RAGの機能をマ
 
 ---
 
-# Chat with your document
+## Chat with your document
 
-GoogleのNotebookLMやClaudeのProjectsに似た機能です。
 ナレッジベースを設定することなく、ドキュメントとチャットができます。
-質問をするチャットウィンドウにドキュメントをS3からロードしたり、ドラッグアンドドロップすることができます
+質問をするチャットウィンドウにドキュメントをS3からロードしたり、ドラッグアンドドロップすることができます。
 
-## 対応しているファイル形式
+### 対応しているファイル形式
 PDF, MD, TXT, DOC, DOCX, HTML, CSV, XLS, XLSX
+ファイルサイズは最大10MBまで。
+
+![bg contain right:50%](images/amazon-bedrock-chat-with-doc.png)
+
+---
