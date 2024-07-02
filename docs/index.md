@@ -105,4 +105,3 @@ PDF, MD, TXT, DOC, DOCX, HTML, CSV, XLS, XLSX
 
 ![](images/internal-search-with-knowledge-base.drawio.png)
 
-参考: https://qiita.com/minorun365/items/24dfb0ea3afde6ed0a56
